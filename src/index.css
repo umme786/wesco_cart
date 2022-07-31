@@ -1,0 +1,9 @@
+.gradient{ background: conic-gradient(at center top, rgb(17, 24, 39), rgb(243, 244, 246), rgb(17, 24, 39));
+}
+::-webkit-scrollbar {
+    display: none;
+}
+/* ------------------slider----------------- */
+*, *:before, *:after {
+  box-sizing: border-box;
+}

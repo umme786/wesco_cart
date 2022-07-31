@@ -1,0 +1,7 @@
+.my_shop {
+  font-family: cursive;
+}
+
+.cart span:nth-child(2) {
+  top: -15px;
+}
